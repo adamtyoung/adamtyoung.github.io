@@ -7,3 +7,5 @@ Testing a post from Drafts to workflow to get to Jekyll blog
 
 *Here is the deal*
 
+[Here is what a link looks like](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
+
