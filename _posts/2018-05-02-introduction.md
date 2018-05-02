@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Our mission: start here"
+title: "Our mission"
 date: 2018-05-02 11:28:19 -0700
 category: 
 tags: []
