@@ -10,3 +10,7 @@ We are embarking on a three-week journey through Northern Italy next week. Our i
 
 ![Our route](https://c1.staticflickr.com/1/827/41853475061_fe55e763cf.jpg)
 
+Another version of image for testing:
+
+<a href="https://www.flickr.com/gp/adamtyoung/xi8n26" title="The route"><img src="https://farm1.staticflickr.com/827/41853475061_fe55e763cf_b.jpg" alt="The route"></a>
+
