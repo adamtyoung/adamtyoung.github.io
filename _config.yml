@@ -27,17 +27,17 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-flickr
+    #- jekyll-flickr
 
-flickr:
-  api_key: 8033adfbcf0d6f72054029842be2a26b
-  api_secret: 8a1b066ec125671c
-  widths: [320, 640, 800, 1024, 1600]
-  width_legacy: 1024
-  width_viewport: 100vw
-  figcaption: true
-  license: true
-  caption: true
+    # flickr:
+    # api_key: 8033adfbcf0d6f72054029842be2a26b
+    # api_secret: 8a1b066ec125671c
+    # widths: [320, 640, 800, 1024, 1600]
+    # width_legacy: 1024
+    # width_viewport: 100vw
+    # figcaption: true
+    # license: true
+    # caption: true
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
